@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Core/">
+    <Project Path="CleanTeeth.Domain/CleanTeeth.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/" />
+  <Folder Name="/Tests/" />
+  <Folder Name="/UI/">
+    <Project Path="SOLIDPrinciples_STUPID/SOLIDPrinciples_STUPID.csproj" Id="c32d0c03-2f2b-49e7-bd4e-1e0d3afc32cd" />
+  </Folder>
+  <Folder Name="/UI/API/" />
+</Solution>
