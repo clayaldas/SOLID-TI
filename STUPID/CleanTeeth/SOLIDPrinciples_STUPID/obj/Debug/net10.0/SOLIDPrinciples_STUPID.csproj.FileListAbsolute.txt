@@ -36,3 +36,22 @@ D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWAR
 D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\STUPID\CleanTeeth\SOLIDPrinciples_STUPID\obj\Debug\net10.0\SOLIDPrinciples_STUPID.pdb
 D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\STUPID\CleanTeeth\SOLIDPrinciples_STUPID\obj\Debug\net10.0\SOLIDPrinciples_STUPID.genruntimeconfig.cache
 D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\STUPID\CleanTeeth\SOLIDPrinciples_STUPID\obj\Debug\net10.0\ref\SOLIDPrinciples_STUPID.dll
+E:\Tecnologias Desarrollo Web\SOLID-TI\STUPID\CleanTeeth\SOLIDPrinciples_STUPID\bin\Debug\net10.0\SOLIDPrinciples_STUPID.exe
+E:\Tecnologias Desarrollo Web\SOLID-TI\STUPID\CleanTeeth\SOLIDPrinciples_STUPID\bin\Debug\net10.0\SOLIDPrinciples_STUPID.deps.json
+E:\Tecnologias Desarrollo Web\SOLID-TI\STUPID\CleanTeeth\SOLIDPrinciples_STUPID\bin\Debug\net10.0\SOLIDPrinciples_STUPID.runtimeconfig.json
+E:\Tecnologias Desarrollo Web\SOLID-TI\STUPID\CleanTeeth\SOLIDPrinciples_STUPID\bin\Debug\net10.0\SOLIDPrinciples_STUPID.dll
+E:\Tecnologias Desarrollo Web\SOLID-TI\STUPID\CleanTeeth\SOLIDPrinciples_STUPID\bin\Debug\net10.0\SOLIDPrinciples_STUPID.pdb
+E:\Tecnologias Desarrollo Web\SOLID-TI\STUPID\CleanTeeth\SOLIDPrinciples_STUPID\bin\Debug\net10.0\CleanTeeth.Domain.dll
+E:\Tecnologias Desarrollo Web\SOLID-TI\STUPID\CleanTeeth\SOLIDPrinciples_STUPID\bin\Debug\net10.0\CleanTeeth.Domain.pdb
+E:\Tecnologias Desarrollo Web\SOLID-TI\STUPID\CleanTeeth\SOLIDPrinciples_STUPID\obj\Debug\net10.0\SOLIDPrinciples_STUPID.csproj.AssemblyReference.cache
+E:\Tecnologias Desarrollo Web\SOLID-TI\STUPID\CleanTeeth\SOLIDPrinciples_STUPID\obj\Debug\net10.0\SOLIDPrinciples_STUPID.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tecnologias Desarrollo Web\SOLID-TI\STUPID\CleanTeeth\SOLIDPrinciples_STUPID\obj\Debug\net10.0\SOLIDPrinciples_STUPID.AssemblyInfoInputs.cache
+E:\Tecnologias Desarrollo Web\SOLID-TI\STUPID\CleanTeeth\SOLIDPrinciples_STUPID\obj\Debug\net10.0\SOLIDPrinciples_STUPID.AssemblyInfo.cs
+E:\Tecnologias Desarrollo Web\SOLID-TI\STUPID\CleanTeeth\SOLIDPrinciples_STUPID\obj\Debug\net10.0\SOLIDPrinciples_STUPID.csproj.CoreCompileInputs.cache
+E:\Tecnologias Desarrollo Web\SOLID-TI\STUPID\CleanTeeth\SOLIDPrinciples_STUPID\obj\Debug\net10.0\SOLIDPrinciples_STUPID.sourcelink.json
+E:\Tecnologias Desarrollo Web\SOLID-TI\STUPID\CleanTeeth\SOLIDPrinciples_STUPID\obj\Debug\net10.0\SOLIDPri.92BA0457.Up2Date
+E:\Tecnologias Desarrollo Web\SOLID-TI\STUPID\CleanTeeth\SOLIDPrinciples_STUPID\obj\Debug\net10.0\SOLIDPrinciples_STUPID.dll
+E:\Tecnologias Desarrollo Web\SOLID-TI\STUPID\CleanTeeth\SOLIDPrinciples_STUPID\obj\Debug\net10.0\refint\SOLIDPrinciples_STUPID.dll
+E:\Tecnologias Desarrollo Web\SOLID-TI\STUPID\CleanTeeth\SOLIDPrinciples_STUPID\obj\Debug\net10.0\SOLIDPrinciples_STUPID.pdb
+E:\Tecnologias Desarrollo Web\SOLID-TI\STUPID\CleanTeeth\SOLIDPrinciples_STUPID\obj\Debug\net10.0\SOLIDPrinciples_STUPID.genruntimeconfig.cache
+E:\Tecnologias Desarrollo Web\SOLID-TI\STUPID\CleanTeeth\SOLIDPrinciples_STUPID\obj\Debug\net10.0\ref\SOLIDPrinciples_STUPID.dll

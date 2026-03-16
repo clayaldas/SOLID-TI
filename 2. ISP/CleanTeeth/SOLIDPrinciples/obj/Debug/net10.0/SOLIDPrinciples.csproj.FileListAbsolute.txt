@@ -1,0 +1,76 @@
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\SRP\CleanTeeth\SOLIDPrinciples\bin\Debug\net10.0\SOLIDPrinciples.exe
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\SRP\CleanTeeth\SOLIDPrinciples\bin\Debug\net10.0\SOLIDPrinciples.deps.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\SRP\CleanTeeth\SOLIDPrinciples\bin\Debug\net10.0\SOLIDPrinciples.runtimeconfig.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\SRP\CleanTeeth\SOLIDPrinciples\bin\Debug\net10.0\SOLIDPrinciples.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\SRP\CleanTeeth\SOLIDPrinciples\bin\Debug\net10.0\SOLIDPrinciples.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\SRP\CleanTeeth\SOLIDPrinciples\bin\Debug\net10.0\CleanTeeth.Domain.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\SRP\CleanTeeth\SOLIDPrinciples\bin\Debug\net10.0\CleanTeeth.Domain.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\SRP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.csproj.AssemblyReference.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\SRP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\SRP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.AssemblyInfoInputs.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\SRP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.AssemblyInfo.cs
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\SRP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.csproj.CoreCompileInputs.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\SRP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.sourcelink.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\SRP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPri.5F7685D0.Up2Date
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\SRP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\SRP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\refint\SOLIDPrinciples.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\SRP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\SRP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.genruntimeconfig.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\SRP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\ref\SOLIDPrinciples.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\1.SRP\CleanTeeth\SOLIDPrinciples\bin\Debug\net10.0\SOLIDPrinciples.exe
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\1.SRP\CleanTeeth\SOLIDPrinciples\bin\Debug\net10.0\SOLIDPrinciples.deps.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\1.SRP\CleanTeeth\SOLIDPrinciples\bin\Debug\net10.0\SOLIDPrinciples.runtimeconfig.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\1.SRP\CleanTeeth\SOLIDPrinciples\bin\Debug\net10.0\SOLIDPrinciples.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\1.SRP\CleanTeeth\SOLIDPrinciples\bin\Debug\net10.0\SOLIDPrinciples.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\1.SRP\CleanTeeth\SOLIDPrinciples\bin\Debug\net10.0\CleanTeeth.Domain.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\1.SRP\CleanTeeth\SOLIDPrinciples\bin\Debug\net10.0\CleanTeeth.Domain.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\1.SRP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.csproj.AssemblyReference.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\1.SRP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\1.SRP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.AssemblyInfoInputs.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\1.SRP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.AssemblyInfo.cs
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\1.SRP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.csproj.CoreCompileInputs.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\1.SRP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.sourcelink.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\1.SRP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPri.5F7685D0.Up2Date
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\1.SRP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\1.SRP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\refint\SOLIDPrinciples.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\1.SRP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\1.SRP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.genruntimeconfig.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\1.SRP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\ref\SOLIDPrinciples.dll
+E:\Tecnologias Desarrollo Web\SOLID-TI\1.SRP\CleanTeeth\SOLIDPrinciples\bin\Debug\net10.0\SOLIDPrinciples.exe
+E:\Tecnologias Desarrollo Web\SOLID-TI\1.SRP\CleanTeeth\SOLIDPrinciples\bin\Debug\net10.0\SOLIDPrinciples.deps.json
+E:\Tecnologias Desarrollo Web\SOLID-TI\1.SRP\CleanTeeth\SOLIDPrinciples\bin\Debug\net10.0\SOLIDPrinciples.runtimeconfig.json
+E:\Tecnologias Desarrollo Web\SOLID-TI\1.SRP\CleanTeeth\SOLIDPrinciples\bin\Debug\net10.0\SOLIDPrinciples.dll
+E:\Tecnologias Desarrollo Web\SOLID-TI\1.SRP\CleanTeeth\SOLIDPrinciples\bin\Debug\net10.0\SOLIDPrinciples.pdb
+E:\Tecnologias Desarrollo Web\SOLID-TI\1.SRP\CleanTeeth\SOLIDPrinciples\bin\Debug\net10.0\CleanTeeth.Domain.dll
+E:\Tecnologias Desarrollo Web\SOLID-TI\1.SRP\CleanTeeth\SOLIDPrinciples\bin\Debug\net10.0\CleanTeeth.Domain.pdb
+E:\Tecnologias Desarrollo Web\SOLID-TI\1.SRP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.csproj.AssemblyReference.cache
+E:\Tecnologias Desarrollo Web\SOLID-TI\1.SRP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tecnologias Desarrollo Web\SOLID-TI\1.SRP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.AssemblyInfoInputs.cache
+E:\Tecnologias Desarrollo Web\SOLID-TI\1.SRP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.AssemblyInfo.cs
+E:\Tecnologias Desarrollo Web\SOLID-TI\1.SRP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.csproj.CoreCompileInputs.cache
+E:\Tecnologias Desarrollo Web\SOLID-TI\1.SRP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.sourcelink.json
+E:\Tecnologias Desarrollo Web\SOLID-TI\1.SRP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPri.5F7685D0.Up2Date
+E:\Tecnologias Desarrollo Web\SOLID-TI\1.SRP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.dll
+E:\Tecnologias Desarrollo Web\SOLID-TI\1.SRP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\refint\SOLIDPrinciples.dll
+E:\Tecnologias Desarrollo Web\SOLID-TI\1.SRP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.pdb
+E:\Tecnologias Desarrollo Web\SOLID-TI\1.SRP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.genruntimeconfig.cache
+E:\Tecnologias Desarrollo Web\SOLID-TI\1.SRP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\ref\SOLIDPrinciples.dll
+E:\Tecnologias Desarrollo Web\SOLID-TI\2. ISP\CleanTeeth\SOLIDPrinciples\bin\Debug\net10.0\SOLIDPrinciples.exe
+E:\Tecnologias Desarrollo Web\SOLID-TI\2. ISP\CleanTeeth\SOLIDPrinciples\bin\Debug\net10.0\SOLIDPrinciples.deps.json
+E:\Tecnologias Desarrollo Web\SOLID-TI\2. ISP\CleanTeeth\SOLIDPrinciples\bin\Debug\net10.0\SOLIDPrinciples.runtimeconfig.json
+E:\Tecnologias Desarrollo Web\SOLID-TI\2. ISP\CleanTeeth\SOLIDPrinciples\bin\Debug\net10.0\SOLIDPrinciples.dll
+E:\Tecnologias Desarrollo Web\SOLID-TI\2. ISP\CleanTeeth\SOLIDPrinciples\bin\Debug\net10.0\SOLIDPrinciples.pdb
+E:\Tecnologias Desarrollo Web\SOLID-TI\2. ISP\CleanTeeth\SOLIDPrinciples\bin\Debug\net10.0\CleanTeeth.Domain.dll
+E:\Tecnologias Desarrollo Web\SOLID-TI\2. ISP\CleanTeeth\SOLIDPrinciples\bin\Debug\net10.0\CleanTeeth.Domain.pdb
+E:\Tecnologias Desarrollo Web\SOLID-TI\2. ISP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.csproj.AssemblyReference.cache
+E:\Tecnologias Desarrollo Web\SOLID-TI\2. ISP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tecnologias Desarrollo Web\SOLID-TI\2. ISP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.AssemblyInfoInputs.cache
+E:\Tecnologias Desarrollo Web\SOLID-TI\2. ISP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.AssemblyInfo.cs
+E:\Tecnologias Desarrollo Web\SOLID-TI\2. ISP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.csproj.CoreCompileInputs.cache
+E:\Tecnologias Desarrollo Web\SOLID-TI\2. ISP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.sourcelink.json
+E:\Tecnologias Desarrollo Web\SOLID-TI\2. ISP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPri.5F7685D0.Up2Date
+E:\Tecnologias Desarrollo Web\SOLID-TI\2. ISP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.dll
+E:\Tecnologias Desarrollo Web\SOLID-TI\2. ISP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\refint\SOLIDPrinciples.dll
+E:\Tecnologias Desarrollo Web\SOLID-TI\2. ISP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.pdb
+E:\Tecnologias Desarrollo Web\SOLID-TI\2. ISP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\SOLIDPrinciples.genruntimeconfig.cache
+E:\Tecnologias Desarrollo Web\SOLID-TI\2. ISP\CleanTeeth\SOLIDPrinciples\obj\Debug\net10.0\ref\SOLIDPrinciples.dll

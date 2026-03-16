@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Repositorios\\Organizations\\FISEI-Patrones-de-Software\\Plantilla\\SOLID-SOFTWARE\\STUPID\\CleanTeeth\\",
+  "WorkspaceRootPath": "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\STUPID\\CleanTeeth\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C32D0C03-2F2B-49E7-BD4E-1E0D3AFC32CD}|SOLIDPrinciples_STUPID\\SOLIDPrinciples_STUPID.csproj|d:\\repositorios\\organizations\\fisei-patrones-de-software\\plantilla\\solid-software\\stupid\\cleanteeth\\solidprinciples_stupid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C32D0C03-2F2B-49E7-BD4E-1E0D3AFC32CD}|SOLIDPrinciples_STUPID\\SOLIDPrinciples_STUPID.csproj|e:\\tecnologias desarrollo web\\solid-ti\\stupid\\cleanteeth\\solidprinciples_stupid\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32D0C03-2F2B-49E7-BD4E-1E0D3AFC32CD}|SOLIDPrinciples_STUPID\\SOLIDPrinciples_STUPID.csproj|solutionrelative:solidprinciples_stupid\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32D0C03-2F2B-49E7-BD4E-1E0D3AFC32CD}|SOLIDPrinciples_STUPID\\SOLIDPrinciples_STUPID.csproj|e:\\tecnologias desarrollo web\\solid-ti\\stupid\\cleanteeth\\solidprinciples_stupid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C32D0C03-2F2B-49E7-BD4E-1E0D3AFC32CD}|SOLIDPrinciples_STUPID\\SOLIDPrinciples_STUPID.csproj|solutionrelative:solidprinciples_stupid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\STUPID\\CleanTeeth\\SOLIDPrinciples_STUPID\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "SOLIDPrinciples_STUPID\\AppointmentService.cs",
+              "ToolTip": "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\STUPID\\CleanTeeth\\SOLIDPrinciples_STUPID\\AppointmentService.cs",
+              "RelativeToolTip": "SOLIDPrinciples_STUPID\\AppointmentService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T15:23:00.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Repositorios\\Organizations\\FISEI-Patrones-de-Software\\Plantilla\\SOLID-SOFTWARE\\STUPID\\CleanTeeth\\SOLIDPrinciples_STUPID\\Program.cs",
+              "DocumentMoniker": "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\STUPID\\CleanTeeth\\SOLIDPrinciples_STUPID\\Program.cs",
               "RelativeDocumentMoniker": "SOLIDPrinciples_STUPID\\Program.cs",
-              "ToolTip": "D:\\Repositorios\\Organizations\\FISEI-Patrones-de-Software\\Plantilla\\SOLID-SOFTWARE\\STUPID\\CleanTeeth\\SOLIDPrinciples_STUPID\\Program.cs",
+              "ToolTip": "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\STUPID\\CleanTeeth\\SOLIDPrinciples_STUPID\\Program.cs",
               "RelativeToolTip": "SOLIDPrinciples_STUPID\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T02:09:33.85Z",
               "EditorCaption": ""

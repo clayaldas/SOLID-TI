@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Repositorios\\Organizations\\FISEI-Patrones-de-Software\\Plantilla\\SOLID-SOFTWARE\\1.SRP\\CleanTeeth\\",
+  "WorkspaceRootPath": "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\1.SRP\\CleanTeeth\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{939CA3AF-EBFA-4BD6-9225-F19A77FEED32}|SOLIDPrinciples\\SOLIDPrinciples.csproj|d:\\repositorios\\organizations\\fisei-patrones-de-software\\plantilla\\solid-software\\1.srp\\cleanteeth\\solidprinciples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{939CA3AF-EBFA-4BD6-9225-F19A77FEED32}|SOLIDPrinciples\\SOLIDPrinciples.csproj|e:\\tecnologias desarrollo web\\solid-ti\\1.srp\\cleanteeth\\solidprinciples\\application\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{939CA3AF-EBFA-4BD6-9225-F19A77FEED32}|SOLIDPrinciples\\SOLIDPrinciples.csproj|solutionrelative:solidprinciples\\application\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{939CA3AF-EBFA-4BD6-9225-F19A77FEED32}|SOLIDPrinciples\\SOLIDPrinciples.csproj|e:\\tecnologias desarrollo web\\solid-ti\\1.srp\\cleanteeth\\solidprinciples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{939CA3AF-EBFA-4BD6-9225-F19A77FEED32}|SOLIDPrinciples\\SOLIDPrinciples.csproj|solutionrelative:solidprinciples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Repositorios\\Organizations\\FISEI-Patrones-de-Software\\Plantilla\\SOLID-SOFTWARE\\1.SRP\\CleanTeeth\\SOLIDPrinciples\\Program.cs",
+              "DocumentMoniker": "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\1.SRP\\CleanTeeth\\SOLIDPrinciples\\Program.cs",
               "RelativeDocumentMoniker": "SOLIDPrinciples\\Program.cs",
-              "ToolTip": "D:\\Repositorios\\Organizations\\FISEI-Patrones-de-Software\\Plantilla\\SOLID-SOFTWARE\\1.SRP\\CleanTeeth\\SOLIDPrinciples\\Program.cs",
+              "ToolTip": "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\1.SRP\\CleanTeeth\\SOLIDPrinciples\\Program.cs",
               "RelativeToolTip": "SOLIDPrinciples\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAA6wDcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T02:12:48.508Z",
+              "WhenOpened": "2026-03-16T15:40:09.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\1.SRP\\CleanTeeth\\SOLIDPrinciples\\Application\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "SOLIDPrinciples\\Application\\AppointmentService.cs",
+              "ToolTip": "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\1.SRP\\CleanTeeth\\SOLIDPrinciples\\Application\\AppointmentService.cs",
+              "RelativeToolTip": "SOLIDPrinciples\\Application\\AppointmentService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAzwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T15:33:30.367Z",
               "EditorCaption": ""
             }
           ]

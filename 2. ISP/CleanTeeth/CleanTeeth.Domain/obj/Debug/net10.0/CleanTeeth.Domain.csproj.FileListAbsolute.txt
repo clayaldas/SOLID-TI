@@ -1,0 +1,108 @@
+D:\Repositorios\Organizations\FISEI-Tecnologias y Desarrollo Web\CleanTeeth\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.deps.json
+D:\Repositorios\Organizations\FISEI-Tecnologias y Desarrollo Web\CleanTeeth\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.dll
+D:\Repositorios\Organizations\FISEI-Tecnologias y Desarrollo Web\CleanTeeth\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.pdb
+D:\Repositorios\Organizations\FISEI-Tecnologias y Desarrollo Web\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Organizations\FISEI-Tecnologias y Desarrollo Web\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.AssemblyInfoInputs.cache
+D:\Repositorios\Organizations\FISEI-Tecnologias y Desarrollo Web\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.AssemblyInfo.cs
+D:\Repositorios\Organizations\FISEI-Tecnologias y Desarrollo Web\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.csproj.CoreCompileInputs.cache
+D:\Repositorios\Organizations\FISEI-Tecnologias y Desarrollo Web\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.dll
+D:\Repositorios\Organizations\FISEI-Tecnologias y Desarrollo Web\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\refint\CleanTeeth.Domain.dll
+D:\Repositorios\Organizations\FISEI-Tecnologias y Desarrollo Web\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.pdb
+D:\Repositorios\Organizations\FISEI-Tecnologias y Desarrollo Web\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\ref\CleanTeeth.Domain.dll
+D:\Temporal\CleanTeeth\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.deps.json
+D:\Temporal\CleanTeeth\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.dll
+D:\Temporal\CleanTeeth\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.pdb
+D:\Temporal\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temporal\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.AssemblyInfoInputs.cache
+D:\Temporal\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.AssemblyInfo.cs
+D:\Temporal\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.csproj.CoreCompileInputs.cache
+D:\Temporal\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.sourcelink.json
+D:\Temporal\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.dll
+D:\Temporal\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\refint\CleanTeeth.Domain.dll
+D:\Temporal\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.pdb
+D:\Temporal\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\ref\CleanTeeth.Domain.dll
+D:\Repositorios\Organizations\FISEI-Tecnologias y Desarrollo Web\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.sourcelink.json
+D:\Repositorios\Organizations\FISEI-Tecnologias-Desarrollo-Web\CleanTeeth\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.deps.json
+D:\Repositorios\Organizations\FISEI-Tecnologias-Desarrollo-Web\CleanTeeth\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.dll
+D:\Repositorios\Organizations\FISEI-Tecnologias-Desarrollo-Web\CleanTeeth\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.pdb
+D:\Repositorios\Organizations\FISEI-Tecnologias-Desarrollo-Web\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Organizations\FISEI-Tecnologias-Desarrollo-Web\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.AssemblyInfoInputs.cache
+D:\Repositorios\Organizations\FISEI-Tecnologias-Desarrollo-Web\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.AssemblyInfo.cs
+D:\Repositorios\Organizations\FISEI-Tecnologias-Desarrollo-Web\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.csproj.CoreCompileInputs.cache
+D:\Repositorios\Organizations\FISEI-Tecnologias-Desarrollo-Web\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.sourcelink.json
+D:\Repositorios\Organizations\FISEI-Tecnologias-Desarrollo-Web\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.dll
+D:\Repositorios\Organizations\FISEI-Tecnologias-Desarrollo-Web\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\refint\CleanTeeth.Domain.dll
+D:\Repositorios\Organizations\FISEI-Tecnologias-Desarrollo-Web\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.pdb
+D:\Repositorios\Organizations\FISEI-Tecnologias-Desarrollo-Web\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\ref\CleanTeeth.Domain.dll
+D:\Repositorios\Organizations\FISEI-Tecnologias y Desarrollo Web\Plantilla\CleanTeeth\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.deps.json
+D:\Repositorios\Organizations\FISEI-Tecnologias y Desarrollo Web\Plantilla\CleanTeeth\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.dll
+D:\Repositorios\Organizations\FISEI-Tecnologias y Desarrollo Web\Plantilla\CleanTeeth\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.pdb
+D:\Repositorios\Organizations\FISEI-Tecnologias y Desarrollo Web\Plantilla\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Organizations\FISEI-Tecnologias y Desarrollo Web\Plantilla\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.AssemblyInfoInputs.cache
+D:\Repositorios\Organizations\FISEI-Tecnologias y Desarrollo Web\Plantilla\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.AssemblyInfo.cs
+D:\Repositorios\Organizations\FISEI-Tecnologias y Desarrollo Web\Plantilla\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.csproj.CoreCompileInputs.cache
+D:\Repositorios\Organizations\FISEI-Tecnologias y Desarrollo Web\Plantilla\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.sourcelink.json
+D:\Repositorios\Organizations\FISEI-Tecnologias y Desarrollo Web\Plantilla\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.dll
+D:\Repositorios\Organizations\FISEI-Tecnologias y Desarrollo Web\Plantilla\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\refint\CleanTeeth.Domain.dll
+D:\Repositorios\Organizations\FISEI-Tecnologias y Desarrollo Web\Plantilla\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.pdb
+D:\Repositorios\Organizations\FISEI-Tecnologias y Desarrollo Web\Plantilla\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\ref\CleanTeeth.Domain.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\CleanTeeth\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.deps.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\CleanTeeth\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\CleanTeeth\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.AssemblyInfoInputs.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.AssemblyInfo.cs
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.csproj.CoreCompileInputs.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.sourcelink.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\refint\CleanTeeth.Domain.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\ref\CleanTeeth.Domain.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\SRP\CleanTeeth\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.deps.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\SRP\CleanTeeth\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\SRP\CleanTeeth\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\SRP\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\SRP\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.AssemblyInfoInputs.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\SRP\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.AssemblyInfo.cs
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\SRP\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.csproj.CoreCompileInputs.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\SRP\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.sourcelink.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\SRP\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\SRP\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\refint\CleanTeeth.Domain.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\SRP\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\SRP\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\ref\CleanTeeth.Domain.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\1.SRP\CleanTeeth\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.deps.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\1.SRP\CleanTeeth\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\1.SRP\CleanTeeth\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\1.SRP\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\1.SRP\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.AssemblyInfoInputs.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\1.SRP\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.AssemblyInfo.cs
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\1.SRP\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.csproj.CoreCompileInputs.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\1.SRP\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.sourcelink.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\1.SRP\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\1.SRP\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\refint\CleanTeeth.Domain.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\1.SRP\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla\SOLID-SOFTWARE\1.SRP\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\ref\CleanTeeth.Domain.dll
+E:\Tecnologias Desarrollo Web\SOLID-TI\1.SRP\CleanTeeth\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.deps.json
+E:\Tecnologias Desarrollo Web\SOLID-TI\1.SRP\CleanTeeth\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.dll
+E:\Tecnologias Desarrollo Web\SOLID-TI\1.SRP\CleanTeeth\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.pdb
+E:\Tecnologias Desarrollo Web\SOLID-TI\1.SRP\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tecnologias Desarrollo Web\SOLID-TI\1.SRP\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.AssemblyInfoInputs.cache
+E:\Tecnologias Desarrollo Web\SOLID-TI\1.SRP\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.AssemblyInfo.cs
+E:\Tecnologias Desarrollo Web\SOLID-TI\1.SRP\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.csproj.CoreCompileInputs.cache
+E:\Tecnologias Desarrollo Web\SOLID-TI\1.SRP\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.sourcelink.json
+E:\Tecnologias Desarrollo Web\SOLID-TI\1.SRP\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.dll
+E:\Tecnologias Desarrollo Web\SOLID-TI\1.SRP\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\refint\CleanTeeth.Domain.dll
+E:\Tecnologias Desarrollo Web\SOLID-TI\1.SRP\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.pdb
+E:\Tecnologias Desarrollo Web\SOLID-TI\1.SRP\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\ref\CleanTeeth.Domain.dll
+E:\Tecnologias Desarrollo Web\SOLID-TI\2. ISP\CleanTeeth\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.deps.json
+E:\Tecnologias Desarrollo Web\SOLID-TI\2. ISP\CleanTeeth\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.dll
+E:\Tecnologias Desarrollo Web\SOLID-TI\2. ISP\CleanTeeth\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.pdb
+E:\Tecnologias Desarrollo Web\SOLID-TI\2. ISP\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tecnologias Desarrollo Web\SOLID-TI\2. ISP\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.AssemblyInfoInputs.cache
+E:\Tecnologias Desarrollo Web\SOLID-TI\2. ISP\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.AssemblyInfo.cs
+E:\Tecnologias Desarrollo Web\SOLID-TI\2. ISP\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.csproj.CoreCompileInputs.cache
+E:\Tecnologias Desarrollo Web\SOLID-TI\2. ISP\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.sourcelink.json
+E:\Tecnologias Desarrollo Web\SOLID-TI\2. ISP\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.dll
+E:\Tecnologias Desarrollo Web\SOLID-TI\2. ISP\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\refint\CleanTeeth.Domain.dll
+E:\Tecnologias Desarrollo Web\SOLID-TI\2. ISP\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.pdb
+E:\Tecnologias Desarrollo Web\SOLID-TI\2. ISP\CleanTeeth\CleanTeeth.Domain\obj\Debug\net10.0\ref\CleanTeeth.Domain.dll

@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repositorios\\Organizations\\FISEI-Patrones-de-Software\\Plantilla\\SOLID-SOFTWARE\\1.SRP\\CleanTeeth\\SOLIDPrinciples\\SOLIDPrinciples.csproj": {}
+    "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\1.SRP\\CleanTeeth\\SOLIDPrinciples\\SOLIDPrinciples.csproj": {}
   },
   "projects": {
-    "D:\\Repositorios\\Organizations\\FISEI-Patrones-de-Software\\Plantilla\\SOLID-SOFTWARE\\1.SRP\\CleanTeeth\\CleanTeeth.Domain\\CleanTeeth.Domain.csproj": {
+    "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\1.SRP\\CleanTeeth\\CleanTeeth.Domain\\CleanTeeth.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositorios\\Organizations\\FISEI-Patrones-de-Software\\Plantilla\\SOLID-SOFTWARE\\1.SRP\\CleanTeeth\\CleanTeeth.Domain\\CleanTeeth.Domain.csproj",
+        "projectUniqueName": "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\1.SRP\\CleanTeeth\\CleanTeeth.Domain\\CleanTeeth.Domain.csproj",
         "projectName": "CleanTeeth.Domain",
-        "projectPath": "D:\\Repositorios\\Organizations\\FISEI-Patrones-de-Software\\Plantilla\\SOLID-SOFTWARE\\1.SRP\\CleanTeeth\\CleanTeeth.Domain\\CleanTeeth.Domain.csproj",
-        "packagesPath": "C:\\Users\\claya\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositorios\\Organizations\\FISEI-Patrones-de-Software\\Plantilla\\SOLID-SOFTWARE\\1.SRP\\CleanTeeth\\CleanTeeth.Domain\\obj\\",
+        "projectPath": "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\1.SRP\\CleanTeeth\\CleanTeeth.Domain\\CleanTeeth.Domain.csproj",
+        "packagesPath": "C:\\Users\\FISEI-LB6\\.nuget\\packages\\",
+        "outputPath": "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\1.SRP\\CleanTeeth\\CleanTeeth.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\claya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\FISEI-LB6\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -344,21 +343,20 @@
         }
       }
     },
-    "D:\\Repositorios\\Organizations\\FISEI-Patrones-de-Software\\Plantilla\\SOLID-SOFTWARE\\1.SRP\\CleanTeeth\\SOLIDPrinciples\\SOLIDPrinciples.csproj": {
+    "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\1.SRP\\CleanTeeth\\SOLIDPrinciples\\SOLIDPrinciples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositorios\\Organizations\\FISEI-Patrones-de-Software\\Plantilla\\SOLID-SOFTWARE\\1.SRP\\CleanTeeth\\SOLIDPrinciples\\SOLIDPrinciples.csproj",
+        "projectUniqueName": "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\1.SRP\\CleanTeeth\\SOLIDPrinciples\\SOLIDPrinciples.csproj",
         "projectName": "SOLIDPrinciples",
-        "projectPath": "D:\\Repositorios\\Organizations\\FISEI-Patrones-de-Software\\Plantilla\\SOLID-SOFTWARE\\1.SRP\\CleanTeeth\\SOLIDPrinciples\\SOLIDPrinciples.csproj",
-        "packagesPath": "C:\\Users\\claya\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositorios\\Organizations\\FISEI-Patrones-de-Software\\Plantilla\\SOLID-SOFTWARE\\1.SRP\\CleanTeeth\\SOLIDPrinciples\\obj\\",
+        "projectPath": "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\1.SRP\\CleanTeeth\\SOLIDPrinciples\\SOLIDPrinciples.csproj",
+        "packagesPath": "C:\\Users\\FISEI-LB6\\.nuget\\packages\\",
+        "outputPath": "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\1.SRP\\CleanTeeth\\SOLIDPrinciples\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\claya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\FISEI-LB6\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -373,8 +371,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "D:\\Repositorios\\Organizations\\FISEI-Patrones-de-Software\\Plantilla\\SOLID-SOFTWARE\\1.SRP\\CleanTeeth\\CleanTeeth.Domain\\CleanTeeth.Domain.csproj": {
-                "projectPath": "D:\\Repositorios\\Organizations\\FISEI-Patrones-de-Software\\Plantilla\\SOLID-SOFTWARE\\1.SRP\\CleanTeeth\\CleanTeeth.Domain\\CleanTeeth.Domain.csproj"
+              "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\1.SRP\\CleanTeeth\\CleanTeeth.Domain\\CleanTeeth.Domain.csproj": {
+                "projectPath": "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\1.SRP\\CleanTeeth\\CleanTeeth.Domain\\CleanTeeth.Domain.csproj"
               }
             }
           }
