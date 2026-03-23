@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\3. DIP\\CleanTeeth\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{939CA3AF-EBFA-4BD6-9225-F19A77FEED32}|SOLIDPrinciples\\SOLIDPrinciples.csproj|e:\\tecnologias desarrollo web\\solid-ti\\3. dip\\cleanteeth\\solidprinciples\\infrastructure\\persistence\\fileappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{939CA3AF-EBFA-4BD6-9225-F19A77FEED32}|SOLIDPrinciples\\SOLIDPrinciples.csproj|solutionrelative:solidprinciples\\infrastructure\\persistence\\fileappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{939CA3AF-EBFA-4BD6-9225-F19A77FEED32}|SOLIDPrinciples\\SOLIDPrinciples.csproj|e:\\tecnologias desarrollo web\\solid-ti\\3. dip\\cleanteeth\\solidprinciples\\application\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{939CA3AF-EBFA-4BD6-9225-F19A77FEED32}|SOLIDPrinciples\\SOLIDPrinciples.csproj|solutionrelative:solidprinciples\\application\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{939CA3AF-EBFA-4BD6-9225-F19A77FEED32}|SOLIDPrinciples\\SOLIDPrinciples.csproj|e:\\tecnologias desarrollo web\\solid-ti\\3. dip\\cleanteeth\\solidprinciples\\infrastructure\\persistence\\databaseappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{939CA3AF-EBFA-4BD6-9225-F19A77FEED32}|SOLIDPrinciples\\SOLIDPrinciples.csproj|solutionrelative:solidprinciples\\infrastructure\\persistence\\databaseappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{939CA3AF-EBFA-4BD6-9225-F19A77FEED32}|SOLIDPrinciples\\SOLIDPrinciples.csproj|e:\\tecnologias desarrollo web\\solid-ti\\3. dip\\cleanteeth\\solidprinciples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{939CA3AF-EBFA-4BD6-9225-F19A77FEED32}|SOLIDPrinciples\\SOLIDPrinciples.csproj|solutionrelative:solidprinciples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{939CA3AF-EBFA-4BD6-9225-F19A77FEED32}|SOLIDPrinciples\\SOLIDPrinciples.csproj|e:\\tecnologias desarrollo web\\solid-ti\\3. dip\\cleanteeth\\solidprinciples\\infrastructure\\persistence\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{939CA3AF-EBFA-4BD6-9225-F19A77FEED32}|SOLIDPrinciples\\SOLIDPrinciples.csproj|solutionrelative:solidprinciples\\infrastructure\\persistence\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{939CA3AF-EBFA-4BD6-9225-F19A77FEED32}|SOLIDPrinciples\\SOLIDPrinciples.csproj|e:\\tecnologias desarrollo web\\solid-ti\\3. dip\\cleanteeth\\solidprinciples\\application\\interfaces\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{939CA3AF-EBFA-4BD6-9225-F19A77FEED32}|SOLIDPrinciples\\SOLIDPrinciples.csproj|solutionrelative:solidprinciples\\application\\interfaces\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataBaseAppointmentRepository.cs",
+              "DocumentMoniker": "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\3. DIP\\CleanTeeth\\SOLIDPrinciples\\Infrastructure\\Persistence\\DataBaseAppointmentRepository.cs",
+              "RelativeDocumentMoniker": "SOLIDPrinciples\\Infrastructure\\Persistence\\DataBaseAppointmentRepository.cs",
+              "ToolTip": "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\3. DIP\\CleanTeeth\\SOLIDPrinciples\\Infrastructure\\Persistence\\DataBaseAppointmentRepository.cs",
+              "RelativeToolTip": "SOLIDPrinciples\\Infrastructure\\Persistence\\DataBaseAppointmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T16:56:45.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FileAppointmentRepository.cs",
+              "DocumentMoniker": "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\3. DIP\\CleanTeeth\\SOLIDPrinciples\\Infrastructure\\Persistence\\FileAppointmentRepository.cs",
+              "RelativeDocumentMoniker": "SOLIDPrinciples\\Infrastructure\\Persistence\\FileAppointmentRepository.cs",
+              "ToolTip": "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\3. DIP\\CleanTeeth\\SOLIDPrinciples\\Infrastructure\\Persistence\\FileAppointmentRepository.cs",
+              "RelativeToolTip": "SOLIDPrinciples\\Infrastructure\\Persistence\\FileAppointmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T16:39:00.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\3. DIP\\CleanTeeth\\SOLIDPrinciples\\Infrastructure\\Persistence\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "SOLIDPrinciples\\Infrastructure\\Persistence\\AppointmentRepository.cs",
+              "ToolTip": "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\3. DIP\\CleanTeeth\\SOLIDPrinciples\\Infrastructure\\Persistence\\AppointmentRepository.cs",
+              "RelativeToolTip": "SOLIDPrinciples\\Infrastructure\\Persistence\\AppointmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T16:36:00.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAppointmentRepository.cs",
+              "DocumentMoniker": "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\3. DIP\\CleanTeeth\\SOLIDPrinciples\\Application\\Interfaces\\IAppointmentRepository.cs",
+              "RelativeDocumentMoniker": "SOLIDPrinciples\\Application\\Interfaces\\IAppointmentRepository.cs",
+              "ToolTip": "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\3. DIP\\CleanTeeth\\SOLIDPrinciples\\Application\\Interfaces\\IAppointmentRepository.cs",
+              "RelativeToolTip": "SOLIDPrinciples\\Application\\Interfaces\\IAppointmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T16:35:43.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\3. DIP\\CleanTeeth\\SOLIDPrinciples\\Application\\Services\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "SOLIDPrinciples\\Application\\Services\\AppointmentService.cs",
+              "ToolTip": "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\3. DIP\\CleanTeeth\\SOLIDPrinciples\\Application\\Services\\AppointmentService.cs",
+              "RelativeToolTip": "SOLIDPrinciples\\Application\\Services\\AppointmentService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T16:33:51.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\3. DIP\\CleanTeeth\\SOLIDPrinciples\\Program.cs",
               "RelativeDocumentMoniker": "SOLIDPrinciples\\Program.cs",
               "ToolTip": "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\3. DIP\\CleanTeeth\\SOLIDPrinciples\\Program.cs",
               "RelativeToolTip": "SOLIDPrinciples\\Program.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAIwDwAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAcwDQAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-18T15:53:46.081Z",
               "EditorCaption": ""

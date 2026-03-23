@@ -1,5 +1,6 @@
 ﻿using CleanTeeth.Domain.Entities;
 using CleanTeeth.Domain.ValueObjects;
+using SOLIDPrinciples.Application.Interfaces;
 using SOLIDPrinciples.Application.Services;
 using SOLIDPrinciples.Infrastructure.Notifications.Emails;
 using SOLIDPrinciples.Infrastructure.Notifications.Sms;
@@ -13,7 +14,7 @@ internal class Program
     {
         Console.WriteLine("╔══════════════════════════════════════════════════════════════════════════════════════════╗");
         Console.WriteLine("║  PRINCIPIOS SOLID                                                                        ║");
-        Console.WriteLine("║  PASO 2: INTERFACE SEGREGATION PRINCIPLE (ISP) - PRINCIPIO DE SEGREGACIÓN DE INTERFACES  ║");
+        Console.WriteLine("║  PASO 3: DEPENDENCY INVERSION PRINCIPLE - PRINCIPIO DE INVERSIÓN DE DEPENDENCIAS         ║");
         Console.WriteLine("║  Sistema CleanTeeth - REFACTORIZADO                                                      ║");
         Console.WriteLine("╚══════════════════════════════════════════════════════════════════════════════════════════╝\n");
 
@@ -47,7 +48,10 @@ internal class Program
         );
 
         // Crear el repositorio de citas y el servicio de notificaciones
-        var repository = new AppointmentRepository();        
+        //var repository = new AppointmentRepository();//MODIFICADO
+        //FileAppointmentRepository repository = new FileAppointmentRepository();//NUEVO
+        DataBaseAppointmentRepository repository = new DataBaseAppointmentRepository();
+
         var emailService = new SendGridEmailService();
 
         //TwilioSmsService smsService = new TwilioSmsService();

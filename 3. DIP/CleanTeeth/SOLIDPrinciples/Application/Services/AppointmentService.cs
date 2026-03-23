@@ -10,12 +10,27 @@ public class AppointmentService
 {
     private List<Appointment> _appointments = new List<Appointment>();
 
-    private readonly AppointmentRepository _repository;    
-    private readonly IEmailService _emailService; 
-    private readonly ISmsService _smsService;     
+    //private readonly AppointmentRepository _repository; //MODIFICADO
+    private readonly IAppointmentRepository _repository;//NUEVO
 
+    private readonly IEmailService _emailService; 
+    private readonly ISmsService _smsService;
+
+    //MODIFICADO
+    //public AppointmentService(
+    //    AppointmentRepository repository,
+    //    IEmailService emailService,
+    //    ISmsService smsService
+    //)
+    //{
+    //    _repository = repository;
+    //    _emailService = emailService;
+    //    _smsService = smsService;
+    //}
+
+    //NUEVO
     public AppointmentService(
-        AppointmentRepository repository,
+        IAppointmentRepository repository,
         IEmailService emailService,
         ISmsService smsService
     )
@@ -25,7 +40,7 @@ public class AppointmentService
         _smsService = smsService;
     }
 
-    
+
 
     public void Schedule(Appointment appointment, Email patientEmail, Patient patient)
     {
@@ -60,5 +75,4 @@ public class AppointmentService
         // VISUALIZAR MENSAJE DE CONFIRMACIÓN
         Console.WriteLine("Cita programada con éxito.");
     }
-
 }
