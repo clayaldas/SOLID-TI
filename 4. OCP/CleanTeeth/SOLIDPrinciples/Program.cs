@@ -1,7 +1,10 @@
 ﻿using CleanTeeth.Domain.Entities;
 using CleanTeeth.Domain.ValueObjects;
+using SOLIDPrinciples.Application.Interfaces;
 using SOLIDPrinciples.Application.Services;
+using SOLIDPrinciples.Infrastructure.Notifications.Adapters;
 using SOLIDPrinciples.Infrastructure.Notifications.Emails;
+using SOLIDPrinciples.Infrastructure.Notifications.Messaging;
 using SOLIDPrinciples.Infrastructure.Notifications.Sms;
 using SOLIDPrinciples.Infrastructure.Persistence;
 
@@ -49,14 +52,27 @@ internal class Program
         // Crear el repositorio de citas y el servicio de notificaciones        
         DataBaseAppointmentRepository repository = new DataBaseAppointmentRepository();
 
-        var emailService = new SendGridEmailService();
-
+        //MODIFICADO
+        //var emailService = new SendGridEmailService();
+        //var emailService = new BrevoEmailService();
         //TwilioSmsService smsService = new TwilioSmsService();
-        var smsService = new TwilioSmsService();
+        //var smsService = new TwilioSmsService();
+        //WhatsAppMessagingService messagingService = new WhatsAppMessagingService();
 
+        //NUEVO
+        List<INotificationService> notifications = new List<INotificationService>();
+
+        //NUEVO
+        notifications.Add(new EmailNotificationService(new SmtpEmailService()));
+
+        //MODIFICADO
         // Crear el servicio de citas       
+        //AppointmentService appointmentService = new AppointmentService(repository,
+        //   emailService, smsService, messagingService);
+
+        //NUEVO
         AppointmentService appointmentService = new AppointmentService(repository,
-           emailService, smsService);
+           notifications);
 
         // Agendar la cita        
         appointmentService.Schedule(appointment, patientEmail, patient);

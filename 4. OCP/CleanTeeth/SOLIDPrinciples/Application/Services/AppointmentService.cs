@@ -1,6 +1,9 @@
 ﻿using CleanTeeth.Domain.Entities;
 using CleanTeeth.Domain.ValueObjects;
 using SOLIDPrinciples.Application.Interfaces;
+using SOLIDPrinciples.Infrastructure.Notifications.Emails;
+using SOLIDPrinciples.Infrastructure.Notifications.Messaging;
+using SOLIDPrinciples.Infrastructure.Notifications.Sms;
 
 namespace SOLIDPrinciples.Application.Services;
 
@@ -9,18 +12,34 @@ public class AppointmentService
     private List<Appointment> _appointments = new List<Appointment>();
     
     private readonly IAppointmentRepository _repository;
-    private readonly IEmailService _emailService; 
-    private readonly ISmsService _smsService;  
-    
+
+    //private readonly IEmailService _emailService;//MODIFICADO
+    //private readonly ISmsService _smsService;  //MODIFICADO  
+    //private readonly IMessagingService _messagingService;//MODIFICADO
+    private readonly IEnumerable<INotificationService> _notifications;//NUEVO
+
+
+    //MODIFICADO
+    //public AppointmentService(
+    //    IAppointmentRepository repository,
+    //    IEmailService emailService,
+    //    ISmsService smsService, IMessagingService messagingService
+    //)
+    //{
+    //    _repository = repository;
+    //    _emailService = emailService;
+    //    _smsService = smsService;
+
+    //    _messagingService = messagingService;
+    //}
+
     public AppointmentService(
-        IAppointmentRepository repository,
-        IEmailService emailService,
-        ISmsService smsService
+        IAppointmentRepository repository, 
+        IEnumerable<INotificationService> notifications
     )
     {
         _repository = repository;
-        _emailService = emailService;
-        _smsService = smsService;
+        _notifications = notifications;
     }
 
 
@@ -47,13 +66,21 @@ public class AppointmentService
         // GUARDAR EN ARCHIVO
         _repository.Save(appointment);
 
-        // ENVIAR CORREO ELECTRÓNICO AL PACIENTE        
-        _emailService.Send(patientEmail); 
 
+        // MODIFICADO
+        // ENVIAR CORREO ELECTRÓNICO AL PACIENTE        
+        //_emailService.Send(patientEmail);        
+        //_messagingService.Send(patient);
         // NOTA: Esto es para cumbrir el nuevo requerimiento
         // Enviar las notificaciones por SMS
         // ENVIAR NOTIFICACIÓN POR SMS
-        _smsService.Send(patient);
+        //_smsService.Send(patient);
+
+        // NUEVO
+        foreach (var notification in _notifications)
+        {
+            notification.Send(patient, "Cita programada");
+        }
 
         // VISUALIZAR MENSAJE DE CONFIRMACIÓN
         Console.WriteLine("Cita programada con éxito.");

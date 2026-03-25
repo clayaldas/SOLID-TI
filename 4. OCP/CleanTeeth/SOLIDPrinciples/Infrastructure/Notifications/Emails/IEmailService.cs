@@ -1,6 +1,6 @@
 ﻿using CleanTeeth.Domain.ValueObjects;
 
-namespace SOLIDPrinciples.Application.Interfaces;
+namespace SOLIDPrinciples.Infrastructure.Notifications.Emails;
 
 public interface IEmailService
 {

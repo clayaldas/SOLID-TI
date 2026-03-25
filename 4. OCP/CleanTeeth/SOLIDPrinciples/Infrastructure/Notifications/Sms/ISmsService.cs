@@ -1,6 +1,6 @@
 ﻿using CleanTeeth.Domain.Entities;
 
-namespace SOLIDPrinciples.Application.Interfaces;
+namespace SOLIDPrinciples.Infrastructure.Notifications.Sms;
 
 public interface ISmsService
 {
