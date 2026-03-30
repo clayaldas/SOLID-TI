@@ -57,12 +57,13 @@ internal class Program
         // Crear el repositorio de citas y el servicio de notificaciones        
         //DataBaseAppointmentRepository repository = new DataBaseAppointmentRepository();
         //FileAppointmentRepository repository = new FileAppointmentRepository();
+
         //IAppointmentRepository repository = new FileAppointmentRepository();
         IAppointmentRepository repository = new DataBaseAppointmentRepository();
 
         //NUEVO
         List <INotificationService> notifications = new List<INotificationService>();
-
+        
         //NUEVO
         notifications.Add(new EmailNotificationService(new SmtpEmailService()));
         notifications.Add(new SmsNotificationService (new TwilioSmsService()));

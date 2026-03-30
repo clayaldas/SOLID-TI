@@ -48,7 +48,7 @@ public class AppointmentService
         // ENVIAR LA/LAS NOTIFICACIONES
         foreach (var notification in _notifications)
         {
-            notification.Send(patient, "Cita programada");
+            notification.Send(patient, "Cita programada correctamente");
         }
 
         // VISUALIZAR MENSAJE DE CONFIRMACIÓN
