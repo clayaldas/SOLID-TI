@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\Unit Tests\\CleanTeeth\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{939CA3AF-EBFA-4BD6-9225-F19A77FEED32}|SOLIDPrinciples\\SOLIDPrinciples.csproj|e:\\tecnologias desarrollo web\\solid-ti\\unit tests\\cleanteeth\\solidprinciples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{939CA3AF-EBFA-4BD6-9225-F19A77FEED32}|SOLIDPrinciples\\SOLIDPrinciples.csproj|solutionrelative:solidprinciples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{629395FE-AC28-4C3A-B412-21BFB8686F04}|CleanTeeth.Domain.Tests\\CleanTeeth.Domain.Tests.csproj|e:\\tecnologias desarrollo web\\solid-ti\\unit tests\\cleanteeth\\cleanteeth.domain.tests\\valueobjects\\emailtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{629395FE-AC28-4C3A-B412-21BFB8686F04}|CleanTeeth.Domain.Tests\\CleanTeeth.Domain.Tests.csproj|solutionrelative:cleanteeth.domain.tests\\valueobjects\\emailtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\Unit Tests\\CleanTeeth\\SOLIDPrinciples\\Program.cs",
-              "RelativeDocumentMoniker": "SOLIDPrinciples\\Program.cs",
-              "ToolTip": "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\Unit Tests\\CleanTeeth\\SOLIDPrinciples\\Program.cs",
-              "RelativeToolTip": "SOLIDPrinciples\\Program.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAIwEkAAAABAAAAAAAAAA==",
+              "Title": "EmailTests.cs",
+              "DocumentMoniker": "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\Unit Tests\\CleanTeeth\\CleanTeeth.Domain.Tests\\ValueObjects\\EmailTests.cs",
+              "RelativeDocumentMoniker": "CleanTeeth.Domain.Tests\\ValueObjects\\EmailTests.cs",
+              "ToolTip": "E:\\Tecnologias Desarrollo Web\\SOLID-TI\\Unit Tests\\CleanTeeth\\CleanTeeth.Domain.Tests\\ValueObjects\\EmailTests.cs",
+              "RelativeToolTip": "CleanTeeth.Domain.Tests\\ValueObjects\\EmailTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T16:54:28.283Z",
+              "WhenOpened": "2026-03-30T17:58:13.809Z",
               "EditorCaption": ""
             }
           ]

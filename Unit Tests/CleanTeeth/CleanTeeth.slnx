@@ -3,7 +3,9 @@
     <Project Path="CleanTeeth.Domain/CleanTeeth.Domain.csproj" />
   </Folder>
   <Folder Name="/Infrastructure/" />
-  <Folder Name="/Tests/" />
+  <Folder Name="/Tests/">
+    <Project Path="CleanTeeth.Domain.Tests/CleanTeeth.Domain.Tests.csproj" Id="629395fe-ac28-4c3a-b412-21bfb8686f04" />
+  </Folder>
   <Folder Name="/UI/">
     <Project Path="SOLIDPrinciples/SOLIDPrinciples.csproj" Id="939ca3af-ebfa-4bd6-9225-f19a77feed32" />
   </Folder>
